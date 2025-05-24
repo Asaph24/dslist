@@ -1,7 +1,7 @@
 package com.matthas.dslist.dto;
 
 import com.matthas.dslist.entities.Game;
-import jakarta.persistence.Column;
+
 
 public class GameMinDTO {
 

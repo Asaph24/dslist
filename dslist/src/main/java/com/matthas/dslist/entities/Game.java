@@ -133,4 +133,9 @@ public class Game {
     public int hashCode() {
         return Objects.hashCode(id);
     }
+
+    public String getName() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'getName'");
+    }
 }
