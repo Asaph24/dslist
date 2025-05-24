@@ -13,7 +13,7 @@ public class GameMinDTO {
 
     public GameMinDTO() {
 
-    }
+    } 
 
     public GameMinDTO(Game entity) {
         id = entity.getId();
